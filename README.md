@@ -1,3 +1,15 @@
+#**CrickApp**
+
+![image](https://github.com/user-attachments/assets/bf60e68a-0f1e-47f9-a705-b98dc3cca1dd)
+
+
+![image](https://github.com/user-attachments/assets/887a5ff8-5b59-4039-9be7-a449c3a8eace)
+
+
+![image](https://github.com/user-attachments/assets/fc172f69-4887-4b36-a5c1-25c3d4bfa331)
+
+
+
 # Crcikappfrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.1.
@@ -57,3 +69,5 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
