@@ -15,6 +15,7 @@
 **2)Angular19 for frontend development**
 
   **IDE**
+  
 ** 1)IntelliJa IDE for backend**
 
 ** 2)Visual Studio Code for frontend**
