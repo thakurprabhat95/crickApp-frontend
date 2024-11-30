@@ -1,4 +1,10 @@
-#**CrickApp**
+#**CrickApp*
+
+**Feature**
+
+**1)Showing Live Cricket Score**
+
+**2)Showing History Match**
 
 ![image](https://github.com/user-attachments/assets/bf60e68a-0f1e-47f9-a705-b98dc3cca1dd)
 
