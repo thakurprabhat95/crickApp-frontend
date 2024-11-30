@@ -14,6 +14,11 @@
 
 **2)Angular19 for frontend development**
 
+  _IDE_
+_  1)IntelliJa IDE for backend_
+
+_  2)Visual Studio Code for frontend_
+
 
 
 # Crcikappfrontend
