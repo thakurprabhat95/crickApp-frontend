@@ -8,6 +8,12 @@
 
 ![image](https://github.com/user-attachments/assets/fc172f69-4887-4b36-a5c1-25c3d4bfa331)
 
+**Technology:**
+
+**1)Spring Boot for Backend API development**
+
+**2)Angular19 for frontend development**
+
 
 
 # Crcikappfrontend
