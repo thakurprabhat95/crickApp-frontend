@@ -6,6 +6,8 @@
 
 **2)Showing History Match**
 
+**3)Point-Table**
+
 ![image](https://github.com/user-attachments/assets/bf60e68a-0f1e-47f9-a705-b98dc3cca1dd)
 
 
